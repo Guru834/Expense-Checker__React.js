@@ -1,3 +1,27 @@
+# Expense-Checker__React.js
+This application was made to help clients keep track of their monthly expenditures. Users may monitor their spending by navigating between different years.
+<br />
+# Contributors
+<a href = 'https://github.com/Guru834/'>Guru834</a>
+
+# Built With:
+<ul>
+  <li><a href = 'https://reactjs.org/'>React</a> - React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.</li>
+</ul>
+
+# Features:
+<ul>
+  <li>The user can keep track of their monthly spending for several years.</li>
+  <li>Additionally, the client has the option of adding new expenses.</li>
+</ul>
+<br />
+
+
+https://user-images.githubusercontent.com/58672398/142784195-96360148-acc8-4059-93be-4ae701759c3f.mov
+
+
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -66,5 +90,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
