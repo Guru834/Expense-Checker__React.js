@@ -1,5 +1,5 @@
 # Expense-Checker__React.js
-This application was made to help clients keep track of their monthly expenditures. Users may monitor their spending by navigating between different years.
+This application was made to help clients keep track of their monthly expenditures. Users may monitor their spending by navigating between different years and also add new charges.
 <br />
 # Contributors
 <a href = 'https://github.com/Guru834/'>Guru834</a>
